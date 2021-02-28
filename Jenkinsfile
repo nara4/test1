@@ -4,7 +4,7 @@ pipeline {
     stage ("build") {
       steps {
         script {
-          println "Hi this is reddy from devops team"
+          println "Hi this is reddy from devops team hello"
         }
       }
     }
